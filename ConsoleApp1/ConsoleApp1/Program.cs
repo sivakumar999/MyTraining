@@ -36,6 +36,7 @@ namespace ConsoleApp1
             Console.WriteLine("Enter Salary:");
             salary = double.Parse(Console.ReadLine());
             Console.WriteLine("Name: \t" + name + "\n Age: " + age + "\n Grade: "+grade + "\n doj: " +doj + "\n salary: "+salary);
+            Console.ReadKey();
         }
     }
 }
