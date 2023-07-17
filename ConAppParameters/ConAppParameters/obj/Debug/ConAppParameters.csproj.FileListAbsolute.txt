@@ -1,0 +1,8 @@
+M:\Simplilearn\mphasis\day6\ConAppParameters\ConAppParameters\bin\Debug\ConAppParameters.exe.config
+M:\Simplilearn\mphasis\day6\ConAppParameters\ConAppParameters\bin\Debug\ConAppParameters.exe
+M:\Simplilearn\mphasis\day6\ConAppParameters\ConAppParameters\bin\Debug\ConAppParameters.pdb
+M:\Simplilearn\mphasis\day6\ConAppParameters\ConAppParameters\obj\Debug\ConAppParameters.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day6\ConAppParameters\ConAppParameters\obj\Debug\ConAppParameters.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\day6\ConAppParameters\ConAppParameters\obj\Debug\ConAppParameters.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day6\ConAppParameters\ConAppParameters\obj\Debug\ConAppParameters.exe
+M:\Simplilearn\mphasis\day6\ConAppParameters\ConAppParameters\obj\Debug\ConAppParameters.pdb

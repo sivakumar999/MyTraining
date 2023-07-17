@@ -1,0 +1,8 @@
+M:\Simplilearn\mphasis\day6\ConAppDictionary\ConAppDictionary\bin\Debug\ConAppDictionary.exe.config
+M:\Simplilearn\mphasis\day6\ConAppDictionary\ConAppDictionary\bin\Debug\ConAppDictionary.exe
+M:\Simplilearn\mphasis\day6\ConAppDictionary\ConAppDictionary\bin\Debug\ConAppDictionary.pdb
+M:\Simplilearn\mphasis\day6\ConAppDictionary\ConAppDictionary\obj\Debug\ConAppDictionary.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day6\ConAppDictionary\ConAppDictionary\obj\Debug\ConAppDictionary.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\day6\ConAppDictionary\ConAppDictionary\obj\Debug\ConAppDictionary.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day6\ConAppDictionary\ConAppDictionary\obj\Debug\ConAppDictionary.exe
+M:\Simplilearn\mphasis\day6\ConAppDictionary\ConAppDictionary\obj\Debug\ConAppDictionary.pdb

@@ -1,0 +1,8 @@
+M:\Simplilearn\mphasis\day6\ConAppGenericCollection\ConAppGenericCollection\bin\Debug\ConAppGenericCollection.exe.config
+M:\Simplilearn\mphasis\day6\ConAppGenericCollection\ConAppGenericCollection\bin\Debug\ConAppGenericCollection.exe
+M:\Simplilearn\mphasis\day6\ConAppGenericCollection\ConAppGenericCollection\bin\Debug\ConAppGenericCollection.pdb
+M:\Simplilearn\mphasis\day6\ConAppGenericCollection\ConAppGenericCollection\obj\Debug\ConAppGenericCollection.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day6\ConAppGenericCollection\ConAppGenericCollection\obj\Debug\ConAppGenericCollection.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\day6\ConAppGenericCollection\ConAppGenericCollection\obj\Debug\ConAppGenericCollection.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day6\ConAppGenericCollection\ConAppGenericCollection\obj\Debug\ConAppGenericCollection.exe
+M:\Simplilearn\mphasis\day6\ConAppGenericCollection\ConAppGenericCollection\obj\Debug\ConAppGenericCollection.pdb
