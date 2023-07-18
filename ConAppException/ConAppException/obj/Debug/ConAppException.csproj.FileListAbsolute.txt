@@ -1,0 +1,8 @@
+M:\Simplilearn\mphasis\day7\ConAppException\ConAppException\bin\Debug\ConAppException.exe.config
+M:\Simplilearn\mphasis\day7\ConAppException\ConAppException\bin\Debug\ConAppException.exe
+M:\Simplilearn\mphasis\day7\ConAppException\ConAppException\bin\Debug\ConAppException.pdb
+M:\Simplilearn\mphasis\day7\ConAppException\ConAppException\obj\Debug\ConAppException.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day7\ConAppException\ConAppException\obj\Debug\ConAppException.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\day7\ConAppException\ConAppException\obj\Debug\ConAppException.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day7\ConAppException\ConAppException\obj\Debug\ConAppException.exe
+M:\Simplilearn\mphasis\day7\ConAppException\ConAppException\obj\Debug\ConAppException.pdb

@@ -1,0 +1,8 @@
+M:\Simplilearn\mphasis\day7\ConAppStruct\ConAppStruct\bin\Debug\ConAppStruct.exe.config
+M:\Simplilearn\mphasis\day7\ConAppStruct\ConAppStruct\bin\Debug\ConAppStruct.exe
+M:\Simplilearn\mphasis\day7\ConAppStruct\ConAppStruct\bin\Debug\ConAppStruct.pdb
+M:\Simplilearn\mphasis\day7\ConAppStruct\ConAppStruct\obj\Debug\ConAppStruct.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day7\ConAppStruct\ConAppStruct\obj\Debug\ConAppStruct.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\day7\ConAppStruct\ConAppStruct\obj\Debug\ConAppStruct.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day7\ConAppStruct\ConAppStruct\obj\Debug\ConAppStruct.exe
+M:\Simplilearn\mphasis\day7\ConAppStruct\ConAppStruct\obj\Debug\ConAppStruct.pdb

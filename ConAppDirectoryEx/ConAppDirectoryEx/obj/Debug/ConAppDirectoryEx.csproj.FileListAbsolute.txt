@@ -1,0 +1,8 @@
+M:\Simplilearn\mphasis\day7\ConAppDirectoryEx\ConAppDirectoryEx\bin\Debug\ConAppDirectoryEx.exe.config
+M:\Simplilearn\mphasis\day7\ConAppDirectoryEx\ConAppDirectoryEx\bin\Debug\ConAppDirectoryEx.exe
+M:\Simplilearn\mphasis\day7\ConAppDirectoryEx\ConAppDirectoryEx\bin\Debug\ConAppDirectoryEx.pdb
+M:\Simplilearn\mphasis\day7\ConAppDirectoryEx\ConAppDirectoryEx\obj\Debug\ConAppDirectoryEx.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day7\ConAppDirectoryEx\ConAppDirectoryEx\obj\Debug\ConAppDirectoryEx.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\day7\ConAppDirectoryEx\ConAppDirectoryEx\obj\Debug\ConAppDirectoryEx.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day7\ConAppDirectoryEx\ConAppDirectoryEx\obj\Debug\ConAppDirectoryEx.exe
+M:\Simplilearn\mphasis\day7\ConAppDirectoryEx\ConAppDirectoryEx\obj\Debug\ConAppDirectoryEx.pdb

@@ -1,0 +1,8 @@
+M:\Simplilearn\mphasis\day7\ConAppCustomEX\ConAppCustomEX\bin\Debug\ConAppCustomEX.exe.config
+M:\Simplilearn\mphasis\day7\ConAppCustomEX\ConAppCustomEX\bin\Debug\ConAppCustomEX.exe
+M:\Simplilearn\mphasis\day7\ConAppCustomEX\ConAppCustomEX\bin\Debug\ConAppCustomEX.pdb
+M:\Simplilearn\mphasis\day7\ConAppCustomEX\ConAppCustomEX\obj\Debug\ConAppCustomEX.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day7\ConAppCustomEX\ConAppCustomEX\obj\Debug\ConAppCustomEX.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\day7\ConAppCustomEX\ConAppCustomEX\obj\Debug\ConAppCustomEX.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day7\ConAppCustomEX\ConAppCustomEX\obj\Debug\ConAppCustomEX.exe
+M:\Simplilearn\mphasis\day7\ConAppCustomEX\ConAppCustomEX\obj\Debug\ConAppCustomEX.pdb
